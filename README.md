@@ -12,8 +12,18 @@ D...
 
 # :hammer: Funcionalidades do projeto
 
-- `F1`: D1.
+- `Filtros de categoria do restaurante`: Acesso aos produtos de uma categoria selecionada. EX: Visualizar só as comidas do tipo Churros.
 &nbsp;
+
+- `Carrinho de compras`: Página de carrinho com a visualização dos itens adicionados e também podendo remover o item.
+&nbsp;
+
+- `Utilização de cupons de desconto`: ...
+&nbsp;
+
+- `Página de estatísticas das vendas de comidas`: ...
+&nbsp;
+
 
 
 
