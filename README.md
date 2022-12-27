@@ -1,16 +1,18 @@
 <h1 align="center"> Fonduê Delícia </h1>
 
 <p style='text-align: justify;'> 
-D...
+Um sistema de pedidos e entrega de comidas pela web desenvolvido com Python e o framework Django.
 </p>
 
-
-<br>
 
 &nbsp;
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 # :hammer: Funcionalidades do projeto
+
+
+- `Restaurante virtual`: As comidas cadastradas pelo dono do restaurante ficam disponíveis para compra
+&nbsp;
 
 - `Filtros de categoria do restaurante`: Acesso aos produtos de uma categoria selecionada. EX: Visualizar só as comidas do tipo Churros.
 &nbsp;
@@ -18,17 +20,18 @@ D...
 - `Carrinho de compras`: Página de carrinho com a visualização dos itens adicionados e também podendo remover o item.
 &nbsp;
 
-- `Utilização de cupons de desconto`: ...
+- `Utilização de cupons de desconto`: Cupons de descontos são armazenados e podem ser utilizados como desconto numa quantidade determinada anteriormente.
 &nbsp;
 
-- `Página de estatísticas das vendas de comidas`: ...
-&nbsp;
+
 
 
 
 
 # ✔️ Técnicas e tecnologias utilizadas
 
+
+- ``Consumo de API (ViaCEP)``
 - ``Framework Django``
 - ``Python, Js, html, css, Bootstrap``
 - ``ORM compatível com MySQL, PostgreSQL, SQLite e Oracle``
@@ -39,7 +42,7 @@ D...
 
 # 📁 Acesso ao projeto
 
-https://github.com/joaoreider/freela-way
+https://github.com/joaoreider/fondue-delicia
 
 # 🛠️ Abrir e rodar o projeto
 
